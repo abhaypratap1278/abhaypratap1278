@@ -18,4 +18,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhaypratap1278&theme=dark&layout=compact)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=abhaypratap1278&color=blue&style=flat)
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=abhaypratap1278.abhaypratap1278)
